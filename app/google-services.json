@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "12050976348",
+    "firebase_url": "https://strecice.firebaseio.com",
+    "project_id": "strecice",
+    "storage_bucket": "strecice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12050976348:android:9128f10b2b397865",
+        "android_client_info": {
+          "package_name": "com.dudhe.narayan.strecive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12050976348-1j837bmtfp0vvt6a7fqmd3nf9tesson6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dudhe.narayan.strecive",
+            "certificate_hash": "ada8aa9e7e4e053a0faeec4a76a32ccd88b88d3b"
+          }
+        },
+        {
+          "client_id": "12050976348-qcphdf2oop6co5saf7088vkh56g7u9ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PPgPbvOlNR4TXp8ngeoqzNRtErPA41o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12050976348-qcphdf2oop6co5saf7088vkh56g7u9ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
